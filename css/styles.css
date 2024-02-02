@@ -487,10 +487,6 @@ progress {
   display: none !important;
 }
 
-.lead {
-  font-size: 1.25rem;
-  font-weight: 300;
-}
 
 .display-1 {
   font-size: calc(1.625rem + 4.5vw);
@@ -10854,10 +10850,6 @@ h1, .h1 {
   line-height: 1;
 }
 
-p.lead {
-  font-size: 1.15rem;
-  font-weight: 400;
-}
 
 .subheading {
   text-transform: uppercase;
